@@ -1,0 +1,32 @@
+.continer{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.header{
+    background-color: black;
+    color: white;
+    justify-self: center;
+    padding-right: 900px;
+    padding-left: 900px;
+}
+.aside-left{
+   
+}
+.aside-rigth{
+
+}
+.article-image{
+
+}
+.footer{
+    background-color: black;
+    color: white;
+    justify-self: center;
+    padding-right: 900px;
+    padding-left: 900px;
+}
